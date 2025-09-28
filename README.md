@@ -27,7 +27,7 @@ Antes de instalar y ejecutar la aplicación, asegúrate de tener lo siguiente:
   Implementado en Java con Spring Boot y JPA.
 
 - **Documentación (Swagger UI)**  
-  El aplicativo cuenta con documentación interactiva Swagger UI para explorar y probar los endpoints. Una vez que la aplicación esté corriendo, puedes acceder a ella en la siguiente URL: http://<host>:<puerto>/swagger-ui.html
+  El aplicativo cuenta con documentación interactiva Swagger UI para explorar y probar los endpoints. Una vez que la aplicación esté corriendo, puedes acceder a ella en la siguiente URL: http://localhost:8080/swagger-ui.html
 
 ---
 
